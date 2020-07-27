@@ -119,3 +119,15 @@ text-align: center;
 
 color: #FFFFFF;
 }
+
+.test {
+    margin-top:350px;
+    background-color:#FFF3B1;
+    width: 350px;
+    text-align: center;
+    position: inline;
+    margin-left: 650px;
+}
+
+
+
